@@ -1,0 +1,508 @@
+{
+    "code": 200,
+    "message": "success",
+    "response": {
+        "futuresAssetTransactions": [
+            {
+                "id": "c5f406c6-696c-4e93-bf4d-6ba50d24911b",
+                "assetPair": "btcusdt",
+                "type": "pnl",
+                "amount": -104.17780869,
+                "asset": "usdt",
+                "createdAt": "2024-08-26T06:06:05.000Z",
+                "baseAsset": "btc",
+                "quoteAsset": "usdt"
+            },
+            {
+                "id": "5e71e06e-cfc3-40fa-9b3f-a7373acb666d",
+                "assetPair": "btcusdt",
+                "type": "pnl",
+                "amount": -23.61132979,
+                "asset": "usdt",
+                "createdAt": "2024-08-26T06:06:05.000Z",
+                "baseAsset": "btc",
+                "quoteAsset": "usdt"
+            },
+            {
+                "id": "d53b17bb-9efb-48f5-8aa3-73c21daad757",
+                "assetPair": "btcusdt",
+                "type": "pnl",
+                "amount": -39.20032128,
+                "asset": "usdt",
+                "createdAt": "2024-08-26T06:06:05.000Z",
+                "baseAsset": "btc",
+                "quoteAsset": "usdt"
+            },
+            {
+                "id": "21034922-663b-433d-916b-178eec3eb3bd",
+                "assetPair": "btcusdt",
+                "type": "pnl",
+                "amount": -37.4,
+                "asset": "usdt",
+                "createdAt": "2024-08-26T06:06:05.000Z",
+                "baseAsset": "btc",
+                "quoteAsset": "usdt"
+            },
+            {
+                "id": "c19ca825-932e-47e7-a6e3-d2e9a938c4bb",
+                "assetPair": "btcusdt",
+                "type": "pnl",
+                "amount": -45.77437731,
+                "asset": "usdt",
+                "createdAt": "2024-08-26T06:06:05.000Z",
+                "baseAsset": "btc",
+                "quoteAsset": "usdt"
+            },
+            {
+                "id": "7f48ef63-db67-46eb-a058-cd991237dd0f",
+                "assetPair": "btcusdt",
+                "type": "pnl",
+                "amount": -25.05,
+                "asset": "usdt",
+                "createdAt": "2024-08-26T06:06:05.000Z",
+                "baseAsset": "btc",
+                "quoteAsset": "usdt"
+            },
+            {
+                "id": "a85b1761-d076-4e42-9a81-f917765e62be",
+                "assetPair": "btcusdt",
+                "type": "pnl",
+                "amount": -73.77405887,
+                "asset": "usdt",
+                "createdAt": "2024-08-26T06:06:05.000Z",
+                "baseAsset": "btc",
+                "quoteAsset": "usdt"
+            },
+            {
+                "id": "6a1d9681-e2d0-41e5-bd92-d511940566ff",
+                "assetPair": "goldusdt",
+                "type": "pnl",
+                "amount": 0.08000025,
+                "asset": "usdt",
+                "createdAt": "2024-08-26T06:06:05.000Z",
+                "baseAsset": "gold",
+                "quoteAsset": "usdt"
+            },
+            {
+                "id": "2170f7f5-6313-44db-8347-688cdfd6ff2b",
+                "assetPair": "btcusdt",
+                "type": "pnl",
+                "amount": -83.414,
+                "asset": "usdt",
+                "createdAt": "2024-08-26T06:06:05.000Z",
+                "baseAsset": "btc",
+                "quoteAsset": "usdt"
+            },
+            {
+                "id": "138a3ac4-7aa0-4c95-a68d-9f6c7b6d1760",
+                "assetPair": "btcusdt",
+                "type": "pnl",
+                "amount": -0.00106383,
+                "asset": "usdt",
+                "createdAt": "2024-08-26T06:06:05.000Z",
+                "baseAsset": "btc",
+                "quoteAsset": "usdt"
+            },
+            {
+                "id": "bc7d5363-996a-4f9e-b5df-4cf22f904019",
+                "assetPair": "btcusdt",
+                "type": "pnl",
+                "amount": -24.30409149,
+                "asset": "usdt",
+                "createdAt": "2024-08-26T06:06:05.000Z",
+                "baseAsset": "btc",
+                "quoteAsset": "usdt"
+            },
+            {
+                "id": "8c824dce-2f0d-4661-8e8d-d79737bd47d5",
+                "assetPair": "goldusdt",
+                "type": "pnl",
+                "amount": 32.45,
+                "asset": "usdt",
+                "createdAt": "2024-08-26T06:06:05.000Z",
+                "baseAsset": "gold",
+                "quoteAsset": "usdt"
+            },
+            {
+                "id": "dd555922-5076-42f2-b27b-cf9653a9d592",
+                "assetPair": "goldusdt",
+                "type": "pnl",
+                "amount": 0.08000025,
+                "asset": "usdt",
+                "createdAt": "2024-06-07T14:22:20.000Z",
+                "baseAsset": "gold",
+                "quoteAsset": "usdt"
+            },
+            {
+                "id": "a75bd421-0188-482d-9859-898c2d4fe450",
+                "assetPair": "goldusdt",
+                "type": "commission_fee",
+                "amount": -15.29418,
+                "asset": "usdt",
+                "createdAt": "2024-06-07T14:22:20.000Z",
+                "baseAsset": "gold",
+                "quoteAsset": "usdt"
+            },
+            {
+                "id": "50ddd4ff-ca38-41cc-9f92-fff2f91695cb",
+                "assetPair": "goldusdt",
+                "type": "commission_fee",
+                "amount": -4.6198,
+                "asset": "usdt",
+                "createdAt": "2024-06-07T13:51:14.000Z",
+                "baseAsset": "gold",
+                "quoteAsset": "usdt"
+            },
+            {
+                "id": "0c2300ca-8134-4f52-9232-8822ec284e34",
+                "assetPair": "goldusdt",
+                "type": "commission_fee",
+                "amount": -9.2677,
+                "asset": "usdt",
+                "createdAt": "2024-06-07T13:44:57.000Z",
+                "baseAsset": "gold",
+                "quoteAsset": "usdt"
+            },
+            {
+                "id": "fc5b4d7a-832d-4201-9ac3-42c9857b30d9",
+                "assetPair": "goldusdt",
+                "type": "commission_fee",
+                "amount": -2.786928,
+                "asset": "usdt",
+                "createdAt": "2024-06-07T13:33:35.000Z",
+                "baseAsset": "gold",
+                "quoteAsset": "usdt"
+            },
+            {
+                "id": "92a91f4d-c0dd-4292-b7ac-b61f1ba122ee",
+                "assetPair": "goldusdt",
+                "type": "commission_fee",
+                "amount": -9.2941,
+                "asset": "usdt",
+                "createdAt": "2024-06-07T13:08:21.000Z",
+                "baseAsset": "gold",
+                "quoteAsset": "usdt"
+            },
+            {
+                "id": "2a0f85ce-381b-4fd3-90ed-2e2c6e9896fc",
+                "assetPair": "btcusdt",
+                "type": "commission_fee",
+                "amount": -2.849676,
+                "asset": "usdt",
+                "createdAt": "2024-06-07T13:08:00.000Z",
+                "baseAsset": "btc",
+                "quoteAsset": "usdt"
+            },
+            {
+                "id": "06bd300d-afb6-4580-811c-c67b9bd35f3d",
+                "assetPair": "btcusdt",
+                "type": "pnl",
+                "amount": -1.17,
+                "asset": "usdt",
+                "createdAt": "2024-06-07T13:08:00.000Z",
+                "baseAsset": "btc",
+                "quoteAsset": "usdt"
+            },
+            {
+                "id": "cc19fe91-3eeb-46bb-976e-b76f41466f50",
+                "assetPair": "btcusdt",
+                "type": "commission_fee",
+                "amount": -0.1425072,
+                "asset": "usdt",
+                "createdAt": "2024-06-07T13:07:57.000Z",
+                "baseAsset": "btc",
+                "quoteAsset": "usdt"
+            },
+            {
+                "id": "4feb088a-a759-4dfe-9325-881225558c48",
+                "assetPair": "btcusdt",
+                "type": "commission_fee",
+                "amount": -2.39412096,
+                "asset": "usdt",
+                "createdAt": "2024-06-07T13:07:57.000Z",
+                "baseAsset": "btc",
+                "quoteAsset": "usdt"
+            },
+            {
+                "id": "216b6c32-2c56-4648-9b5a-ff56347c9d3c",
+                "assetPair": "btcusdt",
+                "type": "commission_fee",
+                "amount": -0.31351584,
+                "asset": "usdt",
+                "createdAt": "2024-06-07T13:07:57.000Z",
+                "baseAsset": "btc",
+                "quoteAsset": "usdt"
+            },
+            {
+                "id": "5b07a66b-b560-42f9-82a3-b59cec53f7a0",
+                "assetPair": "goldusdt",
+                "type": "pnl",
+                "amount": 2.21927187,
+                "asset": "usdt",
+                "createdAt": "2024-06-07T13:03:09.000Z",
+                "baseAsset": "gold",
+                "quoteAsset": "usdt"
+            },
+            {
+                "id": "5342c146-9840-4ed7-9fee-160d1a1fd8c7",
+                "assetPair": "goldusdt",
+                "type": "commission_fee",
+                "amount": -2.784522,
+                "asset": "usdt",
+                "createdAt": "2024-06-07T13:03:09.000Z",
+                "baseAsset": "gold",
+                "quoteAsset": "usdt"
+            },
+            {
+                "id": "80ceb465-92c2-40b4-8767-b108d735e655",
+                "assetPair": "goldusdt",
+                "type": "commission_fee",
+                "amount": -27.82644,
+                "asset": "usdt",
+                "createdAt": "2024-06-07T13:01:14.000Z",
+                "baseAsset": "gold",
+                "quoteAsset": "usdt"
+            },
+            {
+                "id": "293bb128-d5df-4a71-a3de-27da91b6db40",
+                "assetPair": "goldusdt",
+                "type": "pnl",
+                "amount": -24.7572813,
+                "asset": "usdt",
+                "createdAt": "2024-06-07T13:01:14.000Z",
+                "baseAsset": "gold",
+                "quoteAsset": "usdt"
+            },
+            {
+                "id": "4c3af25b-fe14-4541-a4cb-d4fbf74c2d12",
+                "assetPair": "goldusdt",
+                "type": "pnl",
+                "amount": -0.9048542,
+                "asset": "usdt",
+                "createdAt": "2024-06-07T13:00:58.000Z",
+                "baseAsset": "gold",
+                "quoteAsset": "usdt"
+            },
+            {
+                "id": "155d0218-2fd4-41c5-b445-e44e4ed425b1",
+                "assetPair": "goldusdt",
+                "type": "commission_fee",
+                "amount": -18.5572,
+                "asset": "usdt",
+                "createdAt": "2024-06-07T13:00:58.000Z",
+                "baseAsset": "gold",
+                "quoteAsset": "usdt"
+            },
+            {
+                "id": "e2a63eed-01f2-4b7f-ba3b-e6ec9b546f41",
+                "assetPair": "goldusdt",
+                "type": "commission_fee",
+                "amount": -13.91187,
+                "asset": "usdt",
+                "createdAt": "2024-06-07T13:00:19.000Z",
+                "baseAsset": "gold",
+                "quoteAsset": "usdt"
+            },
+            {
+                "id": "a0d21b20-1850-4455-bad1-1193e6105d72",
+                "assetPair": "goldusdt",
+                "type": "commission_fee",
+                "amount": -19.476618,
+                "asset": "usdt",
+                "createdAt": "2024-06-07T13:00:19.000Z",
+                "baseAsset": "gold",
+                "quoteAsset": "usdt"
+            },
+            {
+                "id": "a04a0565-1dfb-4dab-8b50-ad4c07e9b0e0",
+                "assetPair": "goldusdt",
+                "type": "pnl",
+                "amount": -22.05509691,
+                "asset": "usdt",
+                "createdAt": "2024-06-07T13:00:19.000Z",
+                "baseAsset": "gold",
+                "quoteAsset": "usdt"
+            },
+            {
+                "id": "92197db9-509c-4747-a019-285e1d3af0fa",
+                "assetPair": "goldusdt",
+                "type": "pnl",
+                "amount": -15.75364065,
+                "asset": "usdt",
+                "createdAt": "2024-06-07T13:00:19.000Z",
+                "baseAsset": "gold",
+                "quoteAsset": "usdt"
+            },
+            {
+                "id": "7ea32b26-ae0b-43c8-9e34-f8f135787c2f",
+                "assetPair": "goldusdt",
+                "type": "commission_fee",
+                "amount": -12.984412,
+                "asset": "usdt",
+                "createdAt": "2024-06-07T13:00:19.000Z",
+                "baseAsset": "gold",
+                "quoteAsset": "usdt"
+            },
+            {
+                "id": "6eb4c999-b38e-4e2f-ab8e-8d5ba487d229",
+                "assetPair": "goldusdt",
+                "type": "pnl",
+                "amount": -14.70339794,
+                "asset": "usdt",
+                "createdAt": "2024-06-07T13:00:19.000Z",
+                "baseAsset": "gold",
+                "quoteAsset": "usdt"
+            },
+            {
+                "id": "b4592d23-b8f4-46c3-bdb9-f750b638dd12",
+                "assetPair": "goldusdt",
+                "type": "commission_fee",
+                "amount": -92.787,
+                "asset": "usdt",
+                "createdAt": "2024-06-07T12:44:59.000Z",
+                "baseAsset": "gold",
+                "quoteAsset": "usdt"
+            },
+            {
+                "id": "ccc8f431-84a4-493c-a8af-2ac756af849d",
+                "assetPair": "goldusdt",
+                "type": "commission_fee",
+                "amount": -2.784444,
+                "asset": "usdt",
+                "createdAt": "2024-06-07T12:41:45.000Z",
+                "baseAsset": "gold",
+                "quoteAsset": "usdt"
+            },
+            {
+                "id": "f9c717eb-7ebc-41ef-b40f-597b4ab86788",
+                "assetPair": "goldusdt",
+                "type": "pnl",
+                "amount": 17.1,
+                "asset": "usdt",
+                "createdAt": "2024-06-07T12:40:43.000Z",
+                "baseAsset": "gold",
+                "quoteAsset": "usdt"
+            },
+            {
+                "id": "bd23baea-ae9a-4813-bdb1-75e60b8d1154",
+                "assetPair": "goldusdt",
+                "type": "commission_fee",
+                "amount": -5.567424,
+                "asset": "usdt",
+                "createdAt": "2024-06-07T12:40:43.000Z",
+                "baseAsset": "gold",
+                "quoteAsset": "usdt"
+            },
+            {
+                "id": "1d175811-0a0f-46b0-9319-25875ae1c55c",
+                "assetPair": "goldusdt",
+                "type": "commission_fee",
+                "amount": -2.779986,
+                "asset": "usdt",
+                "createdAt": "2024-06-07T12:36:46.000Z",
+                "baseAsset": "gold",
+                "quoteAsset": "usdt"
+            },
+            {
+                "id": "4303b660-e085-4c93-b4ea-db6a83aa2866",
+                "assetPair": "goldusdt",
+                "type": "commission_fee",
+                "amount": -2.780598,
+                "asset": "usdt",
+                "createdAt": "2024-06-07T12:32:22.000Z",
+                "baseAsset": "gold",
+                "quoteAsset": "usdt"
+            },
+            {
+                "id": "813875c9-44bf-4bfb-b699-3573ef279a49",
+                "assetPair": "btcusdt",
+                "type": "pnl",
+                "amount": -11.81886043,
+                "asset": "usdt",
+                "createdAt": "2024-05-01T13:34:01.000Z",
+                "baseAsset": "btc",
+                "quoteAsset": "usdt"
+            },
+            {
+                "id": "037688d2-2784-448c-b6c6-63c099b47c7f",
+                "assetPair": "btcusdt",
+                "type": "commission_fee",
+                "amount": -0.6878479,
+                "asset": "usdt",
+                "createdAt": "2024-05-01T13:34:01.000Z",
+                "baseAsset": "btc",
+                "quoteAsset": "usdt"
+            },
+            {
+                "id": "a1676908-7df7-44c2-b30b-f26bb801478a",
+                "assetPair": "btcusdt",
+                "type": "commission_fee",
+                "amount": -0.69257545,
+                "asset": "usdt",
+                "createdAt": "2024-05-01T12:03:27.000Z",
+                "baseAsset": "btc",
+                "quoteAsset": "usdt"
+            },
+            {
+                "id": "92a3b5c3-2c85-41e8-868f-109ade68bf65",
+                "assetPair": "btcusdt",
+                "type": "commission_fee",
+                "amount": -0.45669261,
+                "asset": "usdt",
+                "createdAt": "2024-05-01T08:18:33.000Z",
+                "baseAsset": "btc",
+                "quoteAsset": "usdt"
+            },
+            {
+                "id": "41aa0807-47a8-410c-9cc0-f2006a3d0b0a",
+                "assetPair": "btcusdt",
+                "type": "pnl",
+                "amount": -2.76846879,
+                "asset": "usdt",
+                "createdAt": "2024-05-01T08:18:33.000Z",
+                "baseAsset": "btc",
+                "quoteAsset": "usdt"
+            },
+            {
+                "id": "60efdd43-b599-4766-b48d-472204086354",
+                "assetPair": "btcusdt",
+                "type": "commission_fee",
+                "amount": -0.4578,
+                "asset": "usdt",
+                "createdAt": "2024-05-01T08:17:38.000Z",
+                "baseAsset": "btc",
+                "quoteAsset": "usdt"
+            },
+            {
+                "id": "cabbc14c-9061-4073-983d-3c119a42a80a",
+                "assetPair": "btcusdt",
+                "type": "pnl",
+                "amount": -75.07,
+                "asset": "usdt",
+                "createdAt": "2024-04-20T17:56:47.000Z",
+                "baseAsset": "btc",
+                "quoteAsset": "usdt"
+            },
+            {
+                "id": "106895a8-d59e-4ccb-bb0f-11b3ad1e3e0a",
+                "assetPair": "btcusdt",
+                "type": "commission_fee",
+                "amount": -2.610748,
+                "asset": "usdt",
+                "createdAt": "2024-04-20T17:56:47.000Z",
+                "baseAsset": "btc",
+                "quoteAsset": "usdt"
+            },
+            {
+                "id": "673b92fd-9aa1-44d8-b0ab-d9e07f6ad902",
+                "assetPair": "btcusdt",
+                "type": "commission_fee",
+                "amount": -1.303284,
+                "asset": "usdt",
+                "createdAt": "2024-04-20T17:50:05.000Z",
+                "baseAsset": "btc",
+                "quoteAsset": "usdt"
+            }
+        ]
+    }
+}

@@ -1,0 +1,508 @@
+{
+    "code": 200,
+    "message": "success",
+    "response": {
+        "futuresAssetTransactions": [
+            {
+                "id": "27e52729-2e63-4419-a1ab-b43b6c0248ff",
+                "assetPair": "goldusdt",
+                "type": "pnl",
+                "amount": 166.425,
+                "asset": "usdt",
+                "createdAt": "2024-06-06T03:24:15.000Z",
+                "baseAsset": "gold",
+                "quoteAsset": "usdt"
+            },
+            {
+                "id": "25bc2426-64ca-45f1-b41a-6544917963d6",
+                "assetPair": "goldusdt",
+                "type": "commission_fee",
+                "amount": -14.21901,
+                "asset": "usdt",
+                "createdAt": "2024-06-06T03:24:15.000Z",
+                "baseAsset": "gold",
+                "quoteAsset": "usdt"
+            },
+            {
+                "id": "5756fb34-1b32-4c88-9278-674f605dea31",
+                "assetPair": "goldusdt",
+                "type": "funding_fee",
+                "amount": -18.7266225,
+                "asset": "usdt",
+                "createdAt": "2024-06-06T00:01:14.000Z",
+                "baseAsset": "gold",
+                "quoteAsset": "usdt"
+            },
+            {
+                "id": "aa8fdbaf-7711-432d-a3d2-12f92e3ec3f7",
+                "assetPair": "goldusdt",
+                "type": "funding_fee",
+                "amount": -18.7067475,
+                "asset": "usdt",
+                "createdAt": "2024-06-05T16:01:14.000Z",
+                "baseAsset": "gold",
+                "quoteAsset": "usdt"
+            },
+            {
+                "id": "c02b70a4-584b-4e16-befa-83885bd18d4b",
+                "assetPair": "goldusdt",
+                "type": "funding_fee",
+                "amount": -18.53705475,
+                "asset": "usdt",
+                "createdAt": "2024-06-05T08:01:14.000Z",
+                "baseAsset": "gold",
+                "quoteAsset": "usdt"
+            },
+            {
+                "id": "59fc8766-b552-475e-9147-28c91436437d",
+                "assetPair": "goldusdt",
+                "type": "funding_fee",
+                "amount": -18.51137625,
+                "asset": "usdt",
+                "createdAt": "2024-06-05T00:01:14.000Z",
+                "baseAsset": "gold",
+                "quoteAsset": "usdt"
+            },
+            {
+                "id": "0063d1d6-1096-4469-b69c-d269c1302685",
+                "assetPair": "goldusdt",
+                "type": "funding_fee",
+                "amount": -18.50374425,
+                "asset": "usdt",
+                "createdAt": "2024-06-04T16:01:14.000Z",
+                "baseAsset": "gold",
+                "quoteAsset": "usdt"
+            },
+            {
+                "id": "a1656df5-6743-4992-b257-ddec1520226b",
+                "assetPair": "goldusdt",
+                "type": "funding_fee",
+                "amount": -18.5987865,
+                "asset": "usdt",
+                "createdAt": "2024-06-04T08:01:14.000Z",
+                "baseAsset": "gold",
+                "quoteAsset": "usdt"
+            },
+            {
+                "id": "f1bb5e38-0ed2-43c8-8024-ff31979db1e1",
+                "assetPair": "goldusdt",
+                "type": "funding_fee",
+                "amount": -18.69136425,
+                "asset": "usdt",
+                "createdAt": "2024-06-04T00:01:14.000Z",
+                "baseAsset": "gold",
+                "quoteAsset": "usdt"
+            },
+            {
+                "id": "161078f7-09ad-42e8-8635-dc1829b59b69",
+                "assetPair": "goldusdt",
+                "type": "funding_fee",
+                "amount": -18.62355075,
+                "asset": "usdt",
+                "createdAt": "2024-06-03T16:01:14.000Z",
+                "baseAsset": "gold",
+                "quoteAsset": "usdt"
+            },
+            {
+                "id": "96bc8039-234a-48cb-bb5e-649af1e48330",
+                "assetPair": "goldusdt",
+                "type": "funding_fee",
+                "amount": -18.487884,
+                "asset": "usdt",
+                "createdAt": "2024-06-03T08:01:14.000Z",
+                "baseAsset": "gold",
+                "quoteAsset": "usdt"
+            },
+            {
+                "id": "8eeaf922-a361-42ec-a427-9b67f63749fb",
+                "assetPair": "goldusdt",
+                "type": "funding_fee",
+                "amount": -18.487407,
+                "asset": "usdt",
+                "createdAt": "2024-06-03T00:01:14.000Z",
+                "baseAsset": "gold",
+                "quoteAsset": "usdt"
+            },
+            {
+                "id": "19dd797d-c2fa-47ec-a340-89ec2f921a13",
+                "assetPair": "goldusdt",
+                "type": "funding_fee",
+                "amount": -18.5027505,
+                "asset": "usdt",
+                "createdAt": "2024-06-02T16:01:14.000Z",
+                "baseAsset": "gold",
+                "quoteAsset": "usdt"
+            },
+            {
+                "id": "7e18603d-fb3e-4b74-b5e8-9f361fa2457f",
+                "assetPair": "goldusdt",
+                "type": "funding_fee",
+                "amount": -18.5027505,
+                "asset": "usdt",
+                "createdAt": "2024-06-02T08:01:14.000Z",
+                "baseAsset": "gold",
+                "quoteAsset": "usdt"
+            },
+            {
+                "id": "ac045821-15e2-44a8-b729-ccd35e0b3276",
+                "assetPair": "goldusdt",
+                "type": "funding_fee",
+                "amount": -18.5027505,
+                "asset": "usdt",
+                "createdAt": "2024-06-02T00:01:14.000Z",
+                "baseAsset": "gold",
+                "quoteAsset": "usdt"
+            },
+            {
+                "id": "c469100f-27dd-456e-b7eb-6f504aa01dda",
+                "assetPair": "goldusdt",
+                "type": "funding_fee",
+                "amount": -18.5027505,
+                "asset": "usdt",
+                "createdAt": "2024-06-01T16:01:14.000Z",
+                "baseAsset": "gold",
+                "quoteAsset": "usdt"
+            },
+            {
+                "id": "03e41ab9-c6f2-413c-a787-7b7d813fc477",
+                "assetPair": "goldusdt",
+                "type": "funding_fee",
+                "amount": -18.5027505,
+                "asset": "usdt",
+                "createdAt": "2024-06-01T08:01:14.000Z",
+                "baseAsset": "gold",
+                "quoteAsset": "usdt"
+            },
+            {
+                "id": "939a1794-3de0-44c3-9b99-7036657ba815",
+                "assetPair": "goldusdt",
+                "type": "funding_fee",
+                "amount": -18.5027505,
+                "asset": "usdt",
+                "createdAt": "2024-06-01T00:01:14.000Z",
+                "baseAsset": "gold",
+                "quoteAsset": "usdt"
+            },
+            {
+                "id": "71389388-b320-42ed-92dd-f56017aef354",
+                "assetPair": "goldusdt",
+                "type": "funding_fee",
+                "amount": -18.53610075,
+                "asset": "usdt",
+                "createdAt": "2024-05-31T16:01:14.000Z",
+                "baseAsset": "gold",
+                "quoteAsset": "usdt"
+            },
+            {
+                "id": "41a48254-924c-4800-a194-7e8cab0871bb",
+                "assetPair": "goldusdt",
+                "type": "funding_fee",
+                "amount": -18.6048285,
+                "asset": "usdt",
+                "createdAt": "2024-05-31T08:01:14.000Z",
+                "baseAsset": "gold",
+                "quoteAsset": "usdt"
+            },
+            {
+                "id": "3d2193af-3614-4a97-b98d-d21836dba32d",
+                "assetPair": "goldusdt",
+                "type": "funding_fee",
+                "amount": -18.6326535,
+                "asset": "usdt",
+                "createdAt": "2024-05-31T00:01:14.000Z",
+                "baseAsset": "gold",
+                "quoteAsset": "usdt"
+            },
+            {
+                "id": "286dfd26-a1c8-476f-b4a2-31824e5d0e45",
+                "assetPair": "goldusdt",
+                "type": "funding_fee",
+                "amount": -18.63754275,
+                "asset": "usdt",
+                "createdAt": "2024-05-30T16:01:14.000Z",
+                "baseAsset": "gold",
+                "quoteAsset": "usdt"
+            },
+            {
+                "id": "e50516e3-29d2-4f02-999f-0e17afc40244",
+                "assetPair": "goldusdt",
+                "type": "funding_fee",
+                "amount": -18.566112,
+                "asset": "usdt",
+                "createdAt": "2024-05-30T08:01:14.000Z",
+                "baseAsset": "gold",
+                "quoteAsset": "usdt"
+            },
+            {
+                "id": "f501a899-3aac-4a7d-b5d0-fe27922c8a79",
+                "assetPair": "goldusdt",
+                "type": "funding_fee",
+                "amount": -18.57712275,
+                "asset": "usdt",
+                "createdAt": "2024-05-30T00:01:14.000Z",
+                "baseAsset": "gold",
+                "quoteAsset": "usdt"
+            },
+            {
+                "id": "e9c8c90e-58d8-4d88-9bbb-8c5b4e95d294",
+                "assetPair": "goldusdt",
+                "type": "funding_fee",
+                "amount": -18.5929035,
+                "asset": "usdt",
+                "createdAt": "2024-05-29T16:01:14.000Z",
+                "baseAsset": "gold",
+                "quoteAsset": "usdt"
+            },
+            {
+                "id": "0e4769b2-fba9-4603-bdc7-b4150d8bf455",
+                "assetPair": "goldusdt",
+                "type": "funding_fee",
+                "amount": -18.6916425,
+                "asset": "usdt",
+                "createdAt": "2024-05-29T08:01:14.000Z",
+                "baseAsset": "gold",
+                "quoteAsset": "usdt"
+            },
+            {
+                "id": "66878c36-a0e1-4dae-a869-6082bded9781",
+                "assetPair": "goldusdt",
+                "type": "funding_fee",
+                "amount": -18.76466325,
+                "asset": "usdt",
+                "createdAt": "2024-05-29T00:01:14.000Z",
+                "baseAsset": "gold",
+                "quoteAsset": "usdt"
+            },
+            {
+                "id": "d73fec0e-bd16-4e95-9b72-3cf30cdcb2c7",
+                "assetPair": "goldusdt",
+                "type": "funding_fee",
+                "amount": -18.7638285,
+                "asset": "usdt",
+                "createdAt": "2024-05-28T16:01:14.000Z",
+                "baseAsset": "gold",
+                "quoteAsset": "usdt"
+            },
+            {
+                "id": "a81b3ff3-d0e6-4ce5-a758-adfff33f90af",
+                "assetPair": "goldusdt",
+                "type": "funding_fee",
+                "amount": -18.637026,
+                "asset": "usdt",
+                "createdAt": "2024-05-28T08:01:14.000Z",
+                "baseAsset": "gold",
+                "quoteAsset": "usdt"
+            },
+            {
+                "id": "85e25af0-d314-4b76-8ee8-a4d55f3d0609",
+                "assetPair": "goldusdt",
+                "type": "funding_fee",
+                "amount": -18.699831,
+                "asset": "usdt",
+                "createdAt": "2024-05-28T00:01:14.000Z",
+                "baseAsset": "gold",
+                "quoteAsset": "usdt"
+            },
+            {
+                "id": "ec8e68dc-f3c3-4d7e-9f55-9901ab43e02a",
+                "assetPair": "goldusdt",
+                "type": "funding_fee",
+                "amount": -18.70543575,
+                "asset": "usdt",
+                "createdAt": "2024-05-27T16:01:14.000Z",
+                "baseAsset": "gold",
+                "quoteAsset": "usdt"
+            },
+            {
+                "id": "6d8aa694-ba84-4268-8fe1-9a46e383cf03",
+                "assetPair": "goldusdt",
+                "type": "funding_fee",
+                "amount": -18.5898825,
+                "asset": "usdt",
+                "createdAt": "2024-05-27T08:01:14.000Z",
+                "baseAsset": "gold",
+                "quoteAsset": "usdt"
+            },
+            {
+                "id": "4409fcae-5194-425e-ac92-e0db5551ee1f",
+                "assetPair": "goldusdt",
+                "type": "funding_fee",
+                "amount": -18.57259125,
+                "asset": "usdt",
+                "createdAt": "2024-05-27T00:01:14.000Z",
+                "baseAsset": "gold",
+                "quoteAsset": "usdt"
+            },
+            {
+                "id": "2281c604-d163-450c-8051-1133e27f215a",
+                "assetPair": "goldusdt",
+                "type": "funding_fee",
+                "amount": -18.55597575,
+                "asset": "usdt",
+                "createdAt": "2024-05-26T16:01:14.000Z",
+                "baseAsset": "gold",
+                "quoteAsset": "usdt"
+            },
+            {
+                "id": "9a83637e-9a46-4b29-9182-11e2a09e04b2",
+                "assetPair": "goldusdt",
+                "type": "funding_fee",
+                "amount": -18.55597575,
+                "asset": "usdt",
+                "createdAt": "2024-05-26T08:01:14.000Z",
+                "baseAsset": "gold",
+                "quoteAsset": "usdt"
+            },
+            {
+                "id": "5200964a-414e-4f24-a960-a4aa3281ced3",
+                "assetPair": "goldusdt",
+                "type": "funding_fee",
+                "amount": -18.55597575,
+                "asset": "usdt",
+                "createdAt": "2024-05-26T00:01:14.000Z",
+                "baseAsset": "gold",
+                "quoteAsset": "usdt"
+            },
+            {
+                "id": "668ff8cd-aca0-4726-b343-80477daeaed2",
+                "assetPair": "goldusdt",
+                "type": "funding_fee",
+                "amount": -18.55597575,
+                "asset": "usdt",
+                "createdAt": "2024-05-25T16:01:14.000Z",
+                "baseAsset": "gold",
+                "quoteAsset": "usdt"
+            },
+            {
+                "id": "efb1e1f0-ca8c-4d87-8ee0-2fd758286d87",
+                "assetPair": "goldusdt",
+                "type": "funding_fee",
+                "amount": -18.55597575,
+                "asset": "usdt",
+                "createdAt": "2024-05-25T08:01:14.000Z",
+                "baseAsset": "gold",
+                "quoteAsset": "usdt"
+            },
+            {
+                "id": "b4c6490c-eb88-4412-bfc4-7728b14f069d",
+                "assetPair": "goldusdt",
+                "type": "funding_fee",
+                "amount": -18.55597575,
+                "asset": "usdt",
+                "createdAt": "2024-05-25T00:01:14.000Z",
+                "baseAsset": "gold",
+                "quoteAsset": "usdt"
+            },
+            {
+                "id": "3e9bafba-1a3e-421d-8f8a-ed03d571ec77",
+                "assetPair": "goldusdt",
+                "type": "funding_fee",
+                "amount": -18.55406775,
+                "asset": "usdt",
+                "createdAt": "2024-05-24T16:01:14.000Z",
+                "baseAsset": "gold",
+                "quoteAsset": "usdt"
+            },
+            {
+                "id": "3dbfaa45-8281-4043-bf1b-871db6e216c5",
+                "assetPair": "goldusdt",
+                "type": "funding_fee",
+                "amount": -18.5817735,
+                "asset": "usdt",
+                "createdAt": "2024-05-24T08:01:14.000Z",
+                "baseAsset": "gold",
+                "quoteAsset": "usdt"
+            },
+            {
+                "id": "2330ff0a-45df-4fc3-9d9e-e7c64bef7f71",
+                "assetPair": "goldusdt",
+                "type": "funding_fee",
+                "amount": -18.53975775,
+                "asset": "usdt",
+                "createdAt": "2024-05-24T00:01:14.000Z",
+                "baseAsset": "gold",
+                "quoteAsset": "usdt"
+            },
+            {
+                "id": "5387a9e9-7a9c-49f8-ba37-1fb493b66d48",
+                "assetPair": "goldusdt",
+                "type": "funding_fee",
+                "amount": -18.6574575,
+                "asset": "usdt",
+                "createdAt": "2024-05-23T16:01:14.000Z",
+                "baseAsset": "gold",
+                "quoteAsset": "usdt"
+            },
+            {
+                "id": "7fac31b9-4c07-4fee-9b60-1c9fb3610e28",
+                "assetPair": "goldusdt",
+                "type": "funding_fee",
+                "amount": -18.7340955,
+                "asset": "usdt",
+                "createdAt": "2024-05-23T08:01:14.000Z",
+                "baseAsset": "gold",
+                "quoteAsset": "usdt"
+            },
+            {
+                "id": "3475be78-4adf-41a6-858f-c378e45b6fae",
+                "assetPair": "goldusdt",
+                "type": "commission_fee",
+                "amount": -14.15244,
+                "asset": "usdt",
+                "createdAt": "2024-05-23T05:58:43.000Z",
+                "baseAsset": "gold",
+                "quoteAsset": "usdt"
+            },
+            {
+                "id": "3537b880-e82f-4943-a0b5-fdaef58845e0",
+                "assetPair": "goldusdt",
+                "type": "pnl",
+                "amount": -211.9936229,
+                "asset": "usdt",
+                "createdAt": "2024-05-15T20:27:43.000Z",
+                "baseAsset": "gold",
+                "quoteAsset": "usdt"
+            },
+            {
+                "id": "00821f4b-7ebe-480a-b9d6-7508c2b56977",
+                "assetPair": "goldusdt",
+                "type": "commission_fee",
+                "amount": -0.955048,
+                "asset": "usdt",
+                "createdAt": "2024-05-15T20:27:43.000Z",
+                "baseAsset": "gold",
+                "quoteAsset": "usdt"
+            },
+            {
+                "id": "4e2f87fe-b4ce-4578-9ee4-488a17904a56",
+                "assetPair": "goldusdt",
+                "type": "commission_fee",
+                "amount": -34.381728,
+                "asset": "usdt",
+                "createdAt": "2024-05-15T20:27:43.000Z",
+                "baseAsset": "gold",
+                "quoteAsset": "usdt"
+            },
+            {
+                "id": "52852aef-ace6-4a41-b158-6647712329f3",
+                "assetPair": "goldusdt",
+                "type": "pnl",
+                "amount": -200.8360638,
+                "asset": "usdt",
+                "createdAt": "2024-05-15T20:27:43.000Z",
+                "baseAsset": "gold",
+                "quoteAsset": "usdt"
+            },
+            {
+                "id": "fea3f95b-f9b6-436f-8341-35fdbc761ef0",
+                "assetPair": "goldusdt",
+                "type": "commission_fee",
+                "amount": -36.291824,
+                "asset": "usdt",
+                "createdAt": "2024-05-15T20:27:43.000Z",
+                "baseAsset": "gold",
+                "quoteAsset": "usdt"
+            }
+        ]
+    }
+}
